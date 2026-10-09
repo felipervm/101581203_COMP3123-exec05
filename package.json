@@ -1,0 +1,14 @@
+{
+  "name": "101581203_comp3123-exec05",
+  "version": "1.0.0",
+  "description": "COMP3123 Exercise 05 - Express routes and JSON file handling",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Felipe da Rocha Vieira Mattos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
